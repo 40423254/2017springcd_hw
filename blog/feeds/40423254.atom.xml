@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>20170301</title><link href="./2017spring-cd.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./2017spring-cd.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;利用solvespace簡單模擬四連桿運動。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;將四連桿導入v-rep進行模擬。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w1"></category></entry></feed>
