@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:00:00+08:00</updated><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
 &lt;p&gt;&lt;marquee&gt; 跑馬燈測試 3/29 第六週 &lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;因joint過大，導致在v-rep上無法模擬。所以將其直徑從5mm縮降至3mm。&lt;/p&gt;
+
+
+&lt;iframe src="./../data/3-29 將四連桿組立中的joint直徑改為3.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3-29 將joint改為3-(1).png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;ol&gt;
 &lt;li&gt;在onshape上繪製四連桿並組立。&lt;/li&gt;
 &lt;/ol&gt;
@@ -8,8 +15,6 @@
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/210538801" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br/&gt;&lt;/p&gt;
-
-
 &lt;p&gt;將onshape上所繪製的四連桿組立:
 &lt;iframe src="https://player.vimeo.com/video/210538809" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.將組立完成後的四連桿導入V-rep進行模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170322 week5</title><link href="./2017spring-cd%20week5.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-22:./2017spring-cd week5.html</id><summary type="html">&lt;p&gt;3/22 第五週&lt;/p&gt;
