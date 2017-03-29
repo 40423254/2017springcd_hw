@@ -2,7 +2,7 @@
 *Author: Jake Vanderplas <jakevdp@cs.washington.edu>*
 
 This plugin allows liquid-style tags to be inserted into markdown within
-Pelican documents. Liquid uses tags bounded by {% ... %}, and is used
+Pelican documents. Liquid uses tags bounded by '{'% ... '%}', and is used
 to extend markdown in other blogging platforms such as octopress.
 
 This set of extensions does not actually interface with liquid, but allows
