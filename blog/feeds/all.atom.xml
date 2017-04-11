@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:00:00+08:00</updated><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:00:00+08:00</updated><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;fossil倉儲管理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;利用以下指令對fossil倉儲進行管理&lt;/p&gt;
+&lt;p&gt;fossil clone uri foo.fossil (將遠端的倉儲下載下來)&lt;/p&gt;
+&lt;p&gt;fossil open ./../../foo.fossil (將下載下來的倉儲打開)&lt;/p&gt;
+&lt;p&gt;fossil add . (將改版的倉儲推至暫存區)&lt;/p&gt;
+&lt;p&gt;fossil remote-url off (將自動推送改為手動，這是與git不同之處，fossil會自動推送)&lt;/p&gt;
+&lt;p&gt;fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在onshape繪製八連桿&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe src="https://player.vimeo.com/video/212756217" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212756217"&gt;2017-04-11 在onshape上繪製八連桿並組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212756256" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212756256"&gt;2017-04-11 修改八連桿的銷，由旋轉組立改為緊固組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;3.將八連桿導入v-rep模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
 &lt;p&gt;&lt;marquee&gt; 跑馬燈測試 3/29 第六週 &lt;/marquee&gt;&lt;/p&gt;
 &lt;p&gt;因joint過大，導致在v-rep上無法模擬。所以將其直徑從5mm縮降至3mm。&lt;/p&gt;
 
@@ -17,7 +40,7 @@
 &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;將onshape上所繪製的四連桿組立:
 &lt;iframe src="https://player.vimeo.com/video/210538809" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;2.將組立完成後的四連桿導入V-rep進行模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170322 week5</title><link href="./2017spring-cd%20week5.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-22:./2017spring-cd week5.html</id><summary type="html">&lt;p&gt;3/22 第五週&lt;/p&gt;
+&lt;p&gt;2.將組立完成後的四連桿導入V-rep進行模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170322 week5</title><link href="./2017spring-cd%20week5.html" rel="alternate"></link><updated>2017-03-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-22:./2017spring-cd week5.html</id><summary type="html">&lt;p&gt;3/22 第五週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;建立一個與project name同名的wiki，該wiki會成為首頁&lt;/li&gt;
 &lt;/ol&gt;
@@ -33,7 +56,7 @@
 &lt;p&gt;利用V-rep導入solvespace做出的單連桿進行模擬&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;iframe src="https://player.vimeo.com/video/209501377" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170315 week4</title><link href="./2017spring-cd%20week4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-15:./2017spring-cd week4.html</id><summary type="html">&lt;p&gt;3/15 第四週&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/209501377" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170315 week4</title><link href="./2017spring-cd%20week4.html" rel="alternate"></link><updated>2017-03-15T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-15:./2017spring-cd week4.html</id><summary type="html">&lt;p&gt;3/15 第四週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;自己組別在 https://mde2a2.kmol.info/cdbg2/wiki?name=w4 主機上建立伺服器，並可以在上面做編輯。&lt;/li&gt;
 &lt;/ol&gt;
@@ -54,7 +77,7 @@
 &lt;p&gt;選擇mesh
 &lt;iframe src="./../data/20170308-選擇mesh.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;選擇尺寸單位
-&lt;iframe src="./../data/20170308-選擇尺寸單位.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170308 week3</title><link href="./2017spring-cd%20week3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-08:./2017spring-cd week3.html</id><summary type="html">&lt;p&gt;3/8 第三週&lt;/p&gt;
+&lt;iframe src="./../data/20170308-選擇尺寸單位.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170308 week3</title><link href="./2017spring-cd%20week3.html" rel="alternate"></link><updated>2017-03-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-08:./2017spring-cd week3.html</id><summary type="html">&lt;p&gt;3/8 第三週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力、受熱、流力、最小化資源利用。再來進行十部影片翻譯，以便了解hyperworks以及增進英文能力。
 更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。&lt;/li&gt;
@@ -80,7 +103,7 @@
 &lt;li&gt;
 &lt;p&gt;將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./2017spring-cd%20week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./2017spring-cd week2.html</id><summary type="html">&lt;p&gt;3/1 第二週&lt;/p&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./2017spring-cd%20week2.html" rel="alternate"></link><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./2017spring-cd week2.html</id><summary type="html">&lt;p&gt;3/1 第二週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。&lt;/li&gt;
 &lt;/ol&gt;
