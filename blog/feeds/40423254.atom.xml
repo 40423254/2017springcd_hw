@@ -22,7 +22,10 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212756256"&gt;2017-04-11 修改八連桿的銷，由旋轉組立改為緊固組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;3.將八連桿導入v-rep模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
+&lt;p&gt;3.將八連桿導入v-rep模擬&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/212771409" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212771409"&gt;2017-04-11 將八連桿導入v-rep模擬(上)&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
 &lt;p&gt;&lt;marquee&gt; 跑馬燈測試 3/29 第六週 &lt;/marquee&gt;&lt;/p&gt;
 &lt;p&gt;因joint過大，導致在v-rep上無法模擬。所以將其直徑從5mm縮降至3mm。&lt;/p&gt;
 
