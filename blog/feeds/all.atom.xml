@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:00:00+08:00</updated><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-12T11:00:00+08:00</updated><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;期中成績自評&lt;/li&gt;
+&lt;/ol&gt;
 
 
 &lt;ol&gt;
+&lt;li&gt;將台大畢業生之hyperworks兩篇論文範例上傳至fossil倉儲&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w8"></category></entry><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;fossil倉儲管理&lt;/li&gt;
 &lt;/ol&gt;
+
+
 &lt;p&gt;利用以下指令對fossil倉儲進行管理&lt;/p&gt;
 &lt;p&gt;fossil clone uri foo.fossil (將遠端的倉儲下載下來)&lt;/p&gt;
 &lt;p&gt;fossil open ./../../foo.fossil (將下載下來的倉儲打開)&lt;/p&gt;

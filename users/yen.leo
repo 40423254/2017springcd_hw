@@ -41,21 +41,36 @@
 </v>
 <v t="yen.20170120110024.11" a="E"><vh>20170301</vh>
 <v t="yen.20170120110024.12" a="E"><vh>上課內容摘要</vh>
-<v t="yen.20170120110024.13"><vh>上課內容</vh></v>
+<v t="yen.20170120110024.13"><vh>標題</vh></v>
 </v>
 <v t="leo.20170412112500.1" a="E"><vh>1.</vh>
 <v t="leo.20170412112500.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170412112547.1"><vh>2.</vh>
+<v t="leo.20170412112547.1" a="E"><vh>2.</vh>
 <v t="leo.20170412112547.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170412112608.1"><vh>3.</vh>
+<v t="leo.20170412112608.1" a="E"><vh>3.</vh>
 <v t="leo.20170412112608.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170412110114.1" a="E"><vh>20170308</vh>
-<v t="leo.20170412110114.2" a="E"><vh>20170308</vh>
-<v t="leo.20170412110114.3"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170412110114.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170412110114.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412113900.1" a="E"><vh>1.</vh>
+<v t="leo.20170412113900.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170412113929.1" a="E"><vh>2.</vh>
+<v t="leo.20170412113929.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170412113931.1" a="E"><vh>3.</vh>
+<v t="leo.20170412113931.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170412113933.1" a="E"><vh>4.</vh>
+<v t="leo.20170412113933.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170412113934.1" a="E"><vh>5.</vh>
+<v t="leo.20170412113934.2"><vh>上課內容</vh></v>
 </v>
 </v>
 </v>
@@ -70,6 +85,7 @@
 <v t="leo.20170322095252.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170329105339.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170411205711.1"><vh>@edit 20170405.md</vh></v>
+<v t="leo.20170412113205.1"><vh>@edit 20170412.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -98,25 +114,19 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170412110114.1">&lt;section data-markdown&gt;
+<t tx="leo.20170412110114.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170412110114.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20170412110114.2"># 3/8 第三週
-
-1. 從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力、受熱、流力、最小化資源利用。再來進行十部影片翻譯，以便了解hyperworks以及增進英文能力。
-更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。</t>
-<t tx="leo.20170412110114.3">
-1. 各組在十部影片中選兩部影片進行翻譯
-* 在solvespace上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。
-* 在onshape上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。
-* 將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑
-</t>
+<t tx="leo.20170412110114.3"># 3/8 第三週</t>
 <t tx="leo.20170412112500.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -146,6 +156,53 @@
 </t>
 <t tx="leo.20170412112608.2">3. 將四連桿導入v-rep進行模擬。
 </t>
+<t tx="leo.20170412113900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412113900.2">1. 從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力、受熱、流力、最小化資源利用。再來進行十部影片翻譯，以便了解hyperworks以及增進英文能力。
+更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。</t>
+<t tx="leo.20170412113929.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412113929.2">2. 各組在十部影片中選兩部影片進行翻譯</t>
+<t tx="leo.20170412113931.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412113931.2">3. 在solvespace上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。</t>
+<t tx="leo.20170412113933.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412113933.2">4. 在onshape上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。
+</t>
+<t tx="leo.20170412113934.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412113934.2">5. 將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -318,12 +375,7 @@ make.start()</t>
 &lt;/section&gt;
 
 </t>
-<t tx="yen.20170120110024.13"># 3/1 第二週
-
-1. 利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。
-* 利用solvespace簡單模擬四連桿運動。
-* 將四連桿導入v-rep進行模擬。
-</t>
+<t tx="yen.20170120110024.13"># 3/1 第二週</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
