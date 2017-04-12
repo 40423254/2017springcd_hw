@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -18,16 +18,16 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
-<v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170215103217.1"><vh>編輯 template</vh>
+<v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -39,15 +39,23 @@
 <v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="yen.20170120110024.11" a="E"><vh>20170301</vh>
+<v t="yen.20170120110024.12" a="E"><vh>上課內容摘要</vh>
+<v t="yen.20170120110024.13"><vh>上課內容</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+<v t="leo.20170412112500.1" a="E"><vh>1.</vh>
+<v t="leo.20170412112500.2"><vh>上課內容</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170412112547.1"><vh>2.</vh>
+<v t="leo.20170412112547.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170412112608.1"><vh>3.</vh>
+<v t="leo.20170412112608.2"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170412110114.1" a="E"><vh>20170308</vh>
+<v t="leo.20170412110114.2" a="E"><vh>20170308</vh>
+<v t="leo.20170412110114.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
 </v>
 </v>
@@ -70,8 +78,8 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
-<v t="yen.20170120212350.1" a="E"><vh>programs</vh>
-<v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
+<v t="yen.20170120212350.1"><vh>programs</vh>
+<v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
 <v t="yen.20170210222733.1"><vh>line tracer2</vh></v>
@@ -90,6 +98,54 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170412110114.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412110114.2"># 3/8 第三週
+
+1. 從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力、受熱、流力、最小化資源利用。再來進行十部影片翻譯，以便了解hyperworks以及增進英文能力。
+更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。</t>
+<t tx="leo.20170412110114.3">
+1. 各組在十部影片中選兩部影片進行翻譯
+* 在solvespace上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。
+* 在onshape上繪製30-50-60cm四連桿機構，並轉出STL檔，以import方式導入vrep。
+* 將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑
+</t>
+<t tx="leo.20170412112500.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412112500.2">1. 利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。</t>
+<t tx="leo.20170412112547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412112547.2">2. 利用solvespace簡單模擬四連桿運動。
+</t>
+<t tx="leo.20170412112608.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170412112608.2">3. 將四連桿導入v-rep進行模擬。
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -252,7 +308,8 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.11">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -260,70 +317,12 @@ make.start()</t>
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-
-						
 </t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
+<t tx="yen.20170120110024.13"># 3/1 第二週
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+1. 利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。
+* 利用solvespace簡單模擬四連桿運動。
+* 將四連桿導入v-rep進行模擬。
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -420,9 +419,11 @@ make.start()
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[協同產品設計實習課程網誌](blog/index.html)
+[40423254網誌](blog/index.html)
 
+[40423254vimeo](https://vimeo.com/user45596496)
 
+[40423254倉儲](https://github.com/40423254/2017springcd_hw)
 </t>
 <t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
