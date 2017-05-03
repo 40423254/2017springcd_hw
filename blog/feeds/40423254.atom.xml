@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2017-04-12T11:00:00+08:00</updated><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2017-05-03T11:00:00+08:00</updated><entry><title>20170503 week11</title><link href="./2017spring-cd%20week11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-03:./2017spring-cd week11.html</id><summary type="html">&lt;p&gt;5/03 第十一週&lt;/p&gt;
+&lt;p&gt;1 . An Introduction to Agile Product Design&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;˙The benefits of being AGILE : boosting speed and innvation.
+
+˙There are four tips that speed-to-market does :
+
+    1. Faster innvation : you can realize the shift of market more quiclky.
+
+    2. Lower development costs
+
+    3. Anlarge market share : If there is a product being pioneer, it meets less competitors.
+
+    4. Greater forecasting accuracy : The time between product design and release is shorter, so it is more likely to be green-light or others.
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;對產品設計及開發而言，"變得靈活"好處非常多，優勢也非常大。舉凡上列所提及，因未能更快的釋出產品，所以對產品的改革方面也有更多的時間；也因釋出的時間早，更能有效地避開競爭對手。而在具備上述條件之下，對產品開發的額外功能(像是綠能)也就有更多被考慮的空間。&lt;/p&gt;
+
+
+&lt;p&gt;2 . The Move To Agile Design: New Cloud CAD Tools Needed&lt;/p&gt;
+&lt;p&gt;這篇文章提到產品設計最優先考量的是"速度"，其次則是創新。靈活的過程+全雲端協同=未來CAD/CAM的趨勢。&lt;/p&gt;
+&lt;p&gt;3 . Onshape’s Greatest Tech Tips (Volume I)&lt;/p&gt;
+&lt;p&gt;There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know : &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;#1: compare&lt;/span&gt;
+
+    &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;branches&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;history&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#2: Follow Mode&lt;/span&gt;
+
+    &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;watch&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;doing&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;on live&amp;quot;&lt;/span&gt;
+
+&lt;span class="c1"&gt;#3: Export / Import DXF&lt;/span&gt;
+
+    &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;drawing&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;import&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;export&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;onshape&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#4: Shortcut Toolbars&lt;/span&gt;
+
+    &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;commomly&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;customize&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;shortcut&lt;/span&gt; &lt;span class="n"&gt;toolbars&lt;/span&gt;
+
+&lt;span class="c1"&gt;#5: Add Comments&lt;/span&gt;
+
+    &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;chat&lt;/span&gt; &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="n"&gt;others&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;live&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#6: Snap Mode While Inserting&lt;/span&gt;
+
+    &lt;span class="n"&gt;Onshape&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;show&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;graphic&lt;/span&gt; &lt;span class="n"&gt;preview&lt;/span&gt;
+
+&lt;span class="c1"&gt;#7: Green Check To Insert Parts&lt;/span&gt;
+
+    &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;insert&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;onshape&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#8: Multiple Browser Tabs&lt;/span&gt;
+
+    &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;mutiple&lt;/span&gt; &lt;span class="n"&gt;monitors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#9: Roll To Here / Roll To End&lt;/span&gt;
+
+    &lt;span class="n"&gt;Roll&lt;/span&gt; &lt;span class="n"&gt;back&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;roll&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+
+&lt;span class="c1"&gt;#10: Shift-Select When Importing&lt;/span&gt;
+
+    &lt;span class="n"&gt;Quickly&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;with&lt;/span&gt; &lt;span class="nn"&gt;simple&lt;/span&gt; &lt;span class="nn"&gt;icon.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>20170426 week10</title><link href="./2017spring-cd%20week10.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-26:./2017spring-cd week10.html</id><summary type="html">&lt;p&gt;4/26 第十週&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;期中成績自評&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;將上禮拜繪製的四腳機構導入v-rep模擬&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./2017spring-cd%20week9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./2017spring-cd week9.html</id><summary type="html">&lt;p&gt;4/19 第九週&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;期中成績自評&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;每組每個人繪製一四連桿機構並抓點。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe src="https://player.vimeo.com/video/213774522" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213774522"&gt;2017-04-19 期中-四連桿機構協同 Trace Point 查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;利用onshape協同，共同繪製組裝四腳機構。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe src="https://player.vimeo.com/video/213789183" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w9"></category></entry><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;期中成績自評&lt;/li&gt;
 &lt;/ol&gt;
