@@ -63,28 +63,17 @@
     &lt;span class="n"&gt;Quickly&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;with&lt;/span&gt; &lt;span class="nn"&gt;simple&lt;/span&gt; &lt;span class="nn"&gt;icon.&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>20170426 week10</title><link href="./2017spring-cd%20week10.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-26:./2017spring-cd week10.html</id><summary type="html">&lt;p&gt;4/26 第十週&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;期中成績自評&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;ol&gt;
 &lt;li&gt;將上禮拜繪製的四腳機構導入v-rep模擬&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./2017spring-cd%20week9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./2017spring-cd week9.html</id><summary type="html">&lt;p&gt;4/19 第九週&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;期中成績自評&lt;/li&gt;
 &lt;/ol&gt;
+</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./2017spring-cd%20week9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./2017spring-cd week9.html</id><summary type="html">&lt;p&gt;4/19 第九週&lt;/p&gt;
+&lt;p&gt;1 . 每組每個人繪製一四連桿機構並抓點。&lt;/p&gt;
 
 
-&lt;ol&gt;
-&lt;li&gt;每組每個人繪製一四連桿機構並抓點。&lt;/li&gt;
-&lt;/ol&gt;
 &lt;iframe src="https://player.vimeo.com/video/213774522" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/213774522"&gt;2017-04-19 期中-四連桿機構協同 Trace Point 查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;利用onshape協同，共同繪製組裝四腳機構。&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;2 . 利用onshape協同，共同繪製組裝四腳機構。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/213789183" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w9"></category></entry><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
@@ -96,9 +85,7 @@
 &lt;ol&gt;
 &lt;li&gt;將台大畢業生之hyperworks兩篇論文範例上傳至fossil倉儲&lt;/li&gt;
 &lt;/ol&gt;</summary><category term="syllabus"></category><category term="w8"></category></entry><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;fossil倉儲管理&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;1 . fossil倉儲管理&lt;/p&gt;
 
 
 &lt;p&gt;利用以下指令對fossil倉儲進行管理&lt;/p&gt;
@@ -107,9 +94,7 @@
 &lt;p&gt;fossil add . (將改版的倉儲推至暫存區)&lt;/p&gt;
 &lt;p&gt;fossil remote-url off (將自動推送改為手動，這是與git不同之處，fossil會自動推送)&lt;/p&gt;
 &lt;p&gt;fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在onshape繪製八連桿&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;2 . 在onshape繪製八連桿&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212756217" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212756217"&gt;2017-04-11 在onshape上繪製八連桿並組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -118,7 +103,7 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212756256"&gt;2017-04-11 修改八連桿的銷，由旋轉組立改為緊固組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;3.將八連桿導入v-rep模擬&lt;/p&gt;
+&lt;p&gt;3 . 將八連桿導入v-rep模擬&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212771409" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212771409"&gt;2017-04-11 將八連桿導入v-rep模擬(上)&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
