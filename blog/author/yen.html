@@ -278,6 +278,45 @@ init_mathjax();
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="../2017spring-cd week15.html">20170531 week15</a></h2>
+                <div class="summary"><p>W15練習</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 繪圖-->
+
+<canvas id="onegear" width="800" height="600"></canvas>
+
+<div id="onegear_div" width="800" height="20"></div>
+
+<script type="text/python3">
+from browser import document as doc
+import math
+# deg 為角度轉為徑度的轉換因子
+deg = math.pi/180.
+# 定義 Spur 類別
+class Spur(object):
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+    def create_line(self, x1, y1, x2, y2, width=3 ...</script></!--></!--></!-->
+                    <a class="btn btn-default btn-xs" href="../2017spring-cd week15.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../2017spring-cd week13.html">20170517 week13</a></h2>
                 <div class="summary"><p>5/17 第十三週</p>
 <p>在onshape上繪製齒輪並組立</p>
@@ -381,17 +420,6 @@ init_mathjax();
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="../2017spring-cd week4.html">20170315 week4</a></h2>
-                <div class="summary"><p>3/15 第四週</p>
-<ol>
-<li>自己組別在 https://mde2a2.kmol.info/cdbg2/wiki?name=w4 主機上建立伺服器，並可以在上面做編輯。</li>
-</ol>
-
-                    <a class="btn btn-default btn-xs" href="../2017spring-cd week4.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
         <ul class="pagination">
                 <li class="prev disabled"><a href="#">&laquo;</a></li>
@@ -412,6 +440,11 @@ init_mathjax();
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="../2017spring-cd week15.html">
+                            20170531 week15
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="../2017spring-cd week13.html">
                             20170517 week13
                         </a>
@@ -429,11 +462,6 @@ init_mathjax();
                     <li class="list-group-item">
                         <a href="../2017spring-cd week10.html">
                             20170426 week10
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017spring-cd week9.html">
-                            20170419 week9
                         </a>
                     </li>
                 </ul>
