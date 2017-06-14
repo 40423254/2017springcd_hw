@@ -184,6 +184,35 @@ ctx.moveTo(0,500)
 ctx.lineTo(0,0)
 ctx.stroke()
 
+ctx.beginPath()
+ctx.lineWidth="3"
+ctx.strokeStyle="blue"
+ctx.moveTo(0,0)
+ctx.lineTo(500,0)
+ctx.stroke()
+
+ctx.beginPath()
+ctx.lineWidth="3"
+ctx.strokeStyle="blue"
+ctx.moveTo(500,0)
+ctx.lineTo(500,100)
+ctx.stroke()
+
+ctx.beginPath()
+ctx.lineWidth="3"
+ctx.strokeStyle="blue"
+ctx.moveTo(500,100)
+ctx.lineTo(0,100)
+ctx.stroke()
+
+ctx.beginPath()
+ctx.lineWidth="3"
+ctx.strokeStyle="blue"
+ctx.moveTo(0,100)
+ctx.lineTo(0,0)
+ctx.stroke()
+
+
 # 定義一個畫圓的函式
 def circle(ctx, x, y, radius, color='black'):
     ctx.beginPath()
