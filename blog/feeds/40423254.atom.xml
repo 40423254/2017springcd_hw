@@ -239,6 +239,14 @@ ctx.moveTo(points[0][0], points[0][1])
 &lt;/script&gt;
 
 &lt;p&gt;3.各組員倉儲中的子模組建立與運用, 並將程式碼顯示在繪圖網誌文章中&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222380447" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222380447"&gt;40423254-2017springcd-final-3&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;
+git submodule add -b master https://github.com/scrum-1/cdbw17 subw7
+&lt;/pre&gt;
+
 &lt;p&gt;4.各組員 Solvespace 近端零組件繪圖, 並在各組員網誌中顯示指定的零組件&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/222369046" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
