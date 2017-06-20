@@ -1,0 +1,4 @@
+[submodule "subw7"]
+	path = subw7
+	url = https://github.com/scrum-1/cdbw17
+	branch = master
