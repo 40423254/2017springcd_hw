@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>20170614 week17</title><link href="./2017spring-cd%20week17.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-14:./2017spring-cd week17.html</id><summary type="html">&lt;p&gt;第十七周&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>20170614 week17</title><link href="./2017spring-cd%20week17.html" rel="alternate"></link><updated>2017-06-14T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-14:./2017spring-cd week17.html</id><summary type="html">&lt;p&gt;W17&lt;/p&gt;
 &lt;p&gt;1.各組員倉儲中的 Github 檔案推送
 &lt;iframe src="https://player.vimeo.com/video/221522571" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/221522571"&gt;40423254-2017springcd-final-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -240,9 +240,13 @@ ctx.moveTo(points[0][0], points[0][1])
 
 &lt;p&gt;3.各組員倉儲中的子模組建立與運用, 並將程式碼顯示在繪圖網誌文章中&lt;/p&gt;
 &lt;p&gt;4.各組員 Solvespace 近端零組件繪圖, 並在各組員網誌中顯示指定的零組件&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222369046" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222369046"&gt;40423254-2017springcd-final-4.mp4&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;5.各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬&lt;/p&gt;
 &lt;p&gt;6.各組員說明在分組行走機構模擬與實作過程中所扮演的角色, 並利用影片檔說明所負責完成的任務&lt;/p&gt;
-&lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170531 week15</title><link href="./2017spring-cd%20week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-31:./2017spring-cd week15.html</id><summary type="html">&lt;p&gt;W15練習&lt;/p&gt;
+&lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170531 week15</title><link href="./2017spring-cd%20week15.html" rel="alternate"></link><updated>2017-05-31T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-31:./2017spring-cd week15.html</id><summary type="html">&lt;p&gt;W15練習&lt;/p&gt;
 &lt;p&gt;第一題&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/219616721" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -585,12 +589,12 @@ ctx.font = "50px ScriptS"
 ctx.fillText("40423254" ,330,500)
 ctx.stroke()
 
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>20170517 week13</title><link href="./2017spring-cd%20week13.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-17:./2017spring-cd week13.html</id><summary type="html">&lt;p&gt;5/17 第十三週&lt;/p&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>20170517 week13</title><link href="./2017spring-cd%20week13.html" rel="alternate"></link><updated>2017-05-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-17:./2017spring-cd week13.html</id><summary type="html">&lt;p&gt;5/17 第十三週&lt;/p&gt;
 &lt;p&gt;在onshape上繪製齒輪並組立&lt;/p&gt;
-&lt;p&gt;中心距斜度組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w13"></category></entry><entry><title>20170510 week12</title><link href="./2017spring-cd%20week12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-10:./2017spring-cd week12.html</id><summary type="html">&lt;p&gt;5/10 第十二週&lt;/p&gt;
-&lt;p&gt;在onshape上繪製齒輪並組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w12"></category></entry><entry><title>20170503 week11</title><link href="./2017spring-cd%20week11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-03:./2017spring-cd week11.html</id><summary type="html">&lt;p&gt;5/03 第十一週&lt;/p&gt;
+&lt;p&gt;中心距斜度組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w13"></category></entry><entry><title>20170510 week12</title><link href="./2017spring-cd%20week12.html" rel="alternate"></link><updated>2017-05-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-10:./2017spring-cd week12.html</id><summary type="html">&lt;p&gt;5/10 第十二週&lt;/p&gt;
+&lt;p&gt;在onshape上繪製齒輪並組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w12"></category></entry><entry><title>20170503 week11</title><link href="./2017spring-cd%20week11.html" rel="alternate"></link><updated>2017-05-03T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-03:./2017spring-cd week11.html</id><summary type="html">&lt;p&gt;5/03 第十一週&lt;/p&gt;
 &lt;p&gt;1 . An Introduction to Agile Product Design&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;˙The benefits of being AGILE : boosting speed and innvation.
+&lt;div class="highlight"&gt;&lt;pre&gt;˙The benefits of being AGILE : boosting speed and innvation.
 
 ˙There are four tips that speed-to-market does :
 
@@ -611,46 +615,46 @@ ctx.stroke()
 &lt;p&gt;這篇文章提到產品設計最優先考量的是"速度"，其次則是創新。靈活的過程+全雲端協同=未來CAD/CAM的趨勢。&lt;/p&gt;
 &lt;p&gt;3 . Onshape’s Greatest Tech Tips (Volume I)&lt;/p&gt;
 &lt;p&gt;There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know : &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;#1: compare&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#1: compare&lt;/span&gt;
 
     &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;branches&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;history&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#2: Follow Mode&lt;/span&gt;
+&lt;span class="c"&gt;#2: Follow Mode&lt;/span&gt;
 
-    &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;watch&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;doing&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;on live&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;watch&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;doing&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;on live&amp;quot;&lt;/span&gt;
 
-&lt;span class="c1"&gt;#3: Export / Import DXF&lt;/span&gt;
+&lt;span class="c"&gt;#3: Export / Import DXF&lt;/span&gt;
 
     &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;drawing&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;import&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;export&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;onshape&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#4: Shortcut Toolbars&lt;/span&gt;
+&lt;span class="c"&gt;#4: Shortcut Toolbars&lt;/span&gt;
 
     &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;commomly&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;customize&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;shortcut&lt;/span&gt; &lt;span class="n"&gt;toolbars&lt;/span&gt;
 
-&lt;span class="c1"&gt;#5: Add Comments&lt;/span&gt;
+&lt;span class="c"&gt;#5: Add Comments&lt;/span&gt;
 
     &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;chat&lt;/span&gt; &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="n"&gt;others&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;live&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#6: Snap Mode While Inserting&lt;/span&gt;
+&lt;span class="c"&gt;#6: Snap Mode While Inserting&lt;/span&gt;
 
     &lt;span class="n"&gt;Onshape&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;show&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;graphic&lt;/span&gt; &lt;span class="n"&gt;preview&lt;/span&gt;
 
-&lt;span class="c1"&gt;#7: Green Check To Insert Parts&lt;/span&gt;
+&lt;span class="c"&gt;#7: Green Check To Insert Parts&lt;/span&gt;
 
     &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;insert&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;onshape&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#8: Multiple Browser Tabs&lt;/span&gt;
+&lt;span class="c"&gt;#8: Multiple Browser Tabs&lt;/span&gt;
 
     &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;view&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;mutiple&lt;/span&gt; &lt;span class="n"&gt;monitors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#9: Roll To Here / Roll To End&lt;/span&gt;
+&lt;span class="c"&gt;#9: Roll To Here / Roll To End&lt;/span&gt;
 
     &lt;span class="n"&gt;Roll&lt;/span&gt; &lt;span class="n"&gt;back&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;roll&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
 
-&lt;span class="c1"&gt;#10: Shift-Select When Importing&lt;/span&gt;
+&lt;span class="c"&gt;#10: Shift-Select When Importing&lt;/span&gt;
 
     &lt;span class="n"&gt;Quickly&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;with&lt;/span&gt; &lt;span class="nn"&gt;simple&lt;/span&gt; &lt;span class="nn"&gt;icon.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>20170426 week10</title><link href="./2017spring-cd%20week10.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-26:./2017spring-cd week10.html</id><summary type="html">&lt;p&gt;4/26 第十週&lt;/p&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>20170426 week10</title><link href="./2017spring-cd%20week10.html" rel="alternate"></link><updated>2017-04-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-26:./2017spring-cd week10.html</id><summary type="html">&lt;p&gt;4/26 第十週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;將上禮拜繪製的四腳機構導入v-rep模擬。&lt;/li&gt;
 &lt;/ol&gt;
@@ -658,7 +662,7 @@ ctx.stroke()
 
 &lt;iframe src="https://player.vimeo.com/video/215774777" width="640" height="348" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/215774777"&gt;2017-04-26_導入vrep模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./2017spring-cd%20week9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./2017spring-cd week9.html</id><summary type="html">&lt;p&gt;4/19 第九週&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/215774777"&gt;2017-04-26_導入vrep模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./2017spring-cd%20week9.html" rel="alternate"></link><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./2017spring-cd week9.html</id><summary type="html">&lt;p&gt;4/19 第九週&lt;/p&gt;
 &lt;p&gt;1 . 每組每個人繪製一四連桿機構並抓點。&lt;/p&gt;
 
 
@@ -669,7 +673,7 @@ ctx.stroke()
 &lt;p&gt;2 . 利用onshape協同，共同繪製組裝四腳機構。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/213789183" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w9"></category></entry><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w9"></category></entry><entry><title>20170412 week8</title><link href="./2017spring-cd%20week8.html" rel="alternate"></link><updated>2017-04-12T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-12:./2017spring-cd week8.html</id><summary type="html">&lt;p&gt;4/12 第八週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;期中成績自評&lt;/li&gt;
 &lt;/ol&gt;
@@ -677,7 +681,7 @@ ctx.stroke()
 
 &lt;ol&gt;
 &lt;li&gt;將台大畢業生之hyperworks兩篇論文範例上傳至fossil倉儲&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w8"></category></entry><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w8"></category></entry><entry><title>20170405 week7</title><link href="./2017spring-cd%20week7.html" rel="alternate"></link><updated>2017-04-05T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-05:./2017spring-cd week7.html</id><summary type="html">&lt;p&gt;4/5 第七週&lt;/p&gt;
 &lt;p&gt;1 . fossil倉儲管理&lt;/p&gt;
 
 
@@ -699,7 +703,7 @@ ctx.stroke()
 &lt;p&gt;3 . 將八連桿導入v-rep模擬&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212771409" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/212771409"&gt;2017-04-11 將八連桿導入v-rep模擬(上)&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212771409"&gt;2017-04-11 將八連桿導入v-rep模擬(上)&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w7"></category></entry><entry><title>20170329 week6</title><link href="./2017spring-cd%20week6.html" rel="alternate"></link><updated>2017-03-29T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-29:./2017spring-cd week6.html</id><summary type="html">&lt;p&gt;3/29 第六週&lt;/p&gt;
 &lt;p&gt;&lt;marquee&gt; 跑馬燈測試 3/29 第六週 &lt;/marquee&gt;&lt;/p&gt;
 &lt;p&gt;因joint過大，導致在v-rep上無法模擬。所以將其直徑從5mm縮降至3mm。&lt;/p&gt;
 
@@ -717,7 +721,7 @@ ctx.stroke()
 &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;將onshape上所繪製的四連桿組立:
 &lt;iframe src="https://player.vimeo.com/video/210538809" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;2.將組立完成後的四連桿導入V-rep進行模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170322 week5</title><link href="./2017spring-cd%20week5.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-22:./2017spring-cd week5.html</id><summary type="html">&lt;p&gt;3/22 第五週&lt;/p&gt;
+&lt;p&gt;2.將組立完成後的四連桿導入V-rep進行模擬&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170322 week5</title><link href="./2017spring-cd%20week5.html" rel="alternate"></link><updated>2017-03-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-22:./2017spring-cd week5.html</id><summary type="html">&lt;p&gt;3/22 第五週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;建立一個與project name同名的wiki，該wiki會成為首頁&lt;/li&gt;
 &lt;/ol&gt;
@@ -733,7 +737,7 @@ ctx.stroke()
 &lt;p&gt;利用V-rep導入solvespace做出的單連桿進行模擬&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;iframe src="https://player.vimeo.com/video/209501377" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170315 week4</title><link href="./2017spring-cd%20week4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-15:./2017spring-cd week4.html</id><summary type="html">&lt;p&gt;3/15 第四週&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/209501377" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170315 week4</title><link href="./2017spring-cd%20week4.html" rel="alternate"></link><updated>2017-03-15T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-15:./2017spring-cd week4.html</id><summary type="html">&lt;p&gt;3/15 第四週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;自己組別在 https://mde2a2.kmol.info/cdbg2/wiki?name=w4 主機上建立伺服器，並可以在上面做編輯。&lt;/li&gt;
 &lt;/ol&gt;
@@ -754,7 +758,7 @@ ctx.stroke()
 &lt;p&gt;選擇mesh
 &lt;iframe src="./../data/20170308-選擇mesh.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;選擇尺寸單位
-&lt;iframe src="./../data/20170308-選擇尺寸單位.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170308 week3</title><link href="./2017spring-cd%20week3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-08:./2017spring-cd week3.html</id><summary type="html">&lt;p&gt;3/8 第三週&lt;/p&gt;
+&lt;iframe src="./../data/20170308-選擇尺寸單位.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170308 week3</title><link href="./2017spring-cd%20week3.html" rel="alternate"></link><updated>2017-03-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-08:./2017spring-cd week3.html</id><summary type="html">&lt;p&gt;3/8 第三週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力、受熱、流力、最小化資源利用。再來進行十部影片翻譯，以便了解hyperworks以及增進英文能力。
 更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。&lt;/li&gt;
@@ -780,7 +784,7 @@ ctx.stroke()
 &lt;li&gt;
 &lt;p&gt;將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./2017spring-cd%20week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./2017spring-cd week2.html</id><summary type="html">&lt;p&gt;3/1 第二週&lt;/p&gt;
+&lt;/ol&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./2017spring-cd%20week2.html" rel="alternate"></link><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./2017spring-cd week2.html</id><summary type="html">&lt;p&gt;3/1 第二週&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;利用fossil所架設的伺服器進入分組、填寫座位。之後利用python將組別劃分。&lt;/li&gt;
 &lt;/ol&gt;
