@@ -254,7 +254,16 @@ git submodule add -b master https://github.com/scrum-1/cdbw17 subw7
 
 &lt;p&gt;5.各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬&lt;/p&gt;
 &lt;p&gt;6.各組員說明在分組行走機構模擬與實作過程中所扮演的角色, 並利用影片檔說明所負責完成的任務&lt;/p&gt;
-&lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170531 week15</title><link href="./2017spring-cd%20week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-31:./2017spring-cd week15.html</id><summary type="html">&lt;p&gt;W15練習&lt;/p&gt;
+&lt;p&gt;onshape組立影片
+&lt;iframe src="https://player.vimeo.com/video/213789183" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;v-rep機構模擬影片
+&lt;iframe src="https://player.vimeo.com/video/222446638" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222446638"&gt;40423254-2017springcd-final-6&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170607 week16</title><link href="./2017spring-cd%20week16.html" rel="alternate"></link><published>2017-06-07T11:00:00+08:00</published><updated>2017-06-07T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-07:./2017spring-cd week16.html</id><summary type="html">&lt;p&gt;W16練習&lt;/p&gt;
+&lt;p&gt;1.練習如何遠端連結Fossil伺服器&lt;/p&gt;
+&lt;p&gt;2.第一節課介紹如何利用Xming連結Fossil伺服器&lt;/p&gt;
+&lt;p&gt;3.第二節聽學長們的專題報告&lt;/p&gt;</summary><category term="syllabus"></category><category term="w16"></category></entry><entry><title>20170531 week15</title><link href="./2017spring-cd%20week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-31:./2017spring-cd week15.html</id><summary type="html">&lt;p&gt;W15練習&lt;/p&gt;
 &lt;p&gt;第一題&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/219616721" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -600,7 +609,7 @@ ctx.stroke()
 &lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>20170517 week13</title><link href="./2017spring-cd%20week13.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-17:./2017spring-cd week13.html</id><summary type="html">&lt;p&gt;5/17 第十三週&lt;/p&gt;
 &lt;p&gt;在onshape上繪製齒輪並組立&lt;/p&gt;
 &lt;p&gt;中心距斜度組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w13"></category></entry><entry><title>20170510 week12</title><link href="./2017spring-cd%20week12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-10:./2017spring-cd week12.html</id><summary type="html">&lt;p&gt;5/10 第十二週&lt;/p&gt;
-&lt;p&gt;在onshape上繪製齒輪並組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w12"></category></entry><entry><title>20170503 week11</title><link href="./2017spring-cd%20week11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-03:./2017spring-cd week11.html</id><summary type="html">&lt;p&gt;5/03 第十一週&lt;/p&gt;
+&lt;p&gt;在onshape上繪製漸開線齒輪並組立&lt;/p&gt;</summary><category term="syllabus"></category><category term="w12"></category></entry><entry><title>20170503 week11</title><link href="./2017spring-cd%20week11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-03:./2017spring-cd week11.html</id><summary type="html">&lt;p&gt;5/03 第十一週&lt;/p&gt;
 &lt;p&gt;1 . An Introduction to Agile Product Design&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;˙The benefits of being AGILE : boosting speed and innvation.
 

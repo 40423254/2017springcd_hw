@@ -54,7 +54,7 @@
 </v>
 </v>
 <v t="leo.20170412110114.1"><vh>20170308</vh>
-<v t="leo.20170412110114.2"><vh>上課內容摘要</vh>
+<v t="leo.20170412110114.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170412110114.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170412113900.1"><vh>1.</vh>
@@ -166,8 +166,8 @@
 <v t="leo.20170621082520.7"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170621082526.1"><vh>20170426</vh>
-<v t="leo.20170621082526.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082526.1" a="E"><vh>20170426</vh>
+<v t="leo.20170621082526.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082526.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082526.4"><vh>1.</vh>
@@ -175,7 +175,7 @@
 </v>
 </v>
 <v t="leo.20170621082532.1"><vh>20170503</vh>
-<v t="leo.20170621082532.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082532.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082532.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082532.4"><vh>1.</vh>
@@ -192,15 +192,15 @@
 </v>
 </v>
 <v t="leo.20170621082539.1"><vh>20170510</vh>
-<v t="leo.20170621082539.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082539.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082539.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082539.4"><vh>1.</vh>
 <v t="leo.20170621082539.5"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170621082545.1"><vh>20170517</vh>
-<v t="leo.20170621082545.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082545.1" a="E"><vh>20170517</vh>
+<v t="leo.20170621082545.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082545.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082545.4"><vh>1.</vh>
@@ -208,7 +208,7 @@
 </v>
 </v>
 <v t="leo.20170621082552.1"><vh>20170531</vh>
-<v t="leo.20170621082552.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082552.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082552.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082552.4"><vh>1.</vh>
@@ -218,8 +218,13 @@
 <v t="leo.20170621082552.7"><vh>上課內容</vh></v>
 </v>
 </v>
+<v t="leo.20170621092540.1"><vh>20170607</vh>
+<v t="leo.20170621092540.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621092540.3"><vh>標題</vh></v>
+</v>
+</v>
 <v t="leo.20170621082559.1"><vh>20170614</vh>
-<v t="leo.20170621082559.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082559.2" a="E"><vh>上課內容摘要</vh>
 <v t="leo.20170621082559.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170621082559.4"><vh>1.</vh>
@@ -263,6 +268,7 @@
 <v t="leo.20170517114043.1"><vh>@edit 20170510.md</vh></v>
 <v t="leo.20170517114136.1"><vh>@edit 20170517.md</vh></v>
 <v t="leo.20170531092140.1"><vh>@edit 20170531.md</vh></v>
+<v t="leo.20170621092339.1"><vh>@edit 20170607.md</vh></v>
 <v t="leo.20170614100416.1"><vh>@edit 20170614.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -304,7 +310,9 @@
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170412110114.3"># 3/8 第三週</t>
+<t tx="leo.20170412110114.3"># 3/8 第三週
+
+從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體</t>
 <t tx="leo.20170412112500.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -323,6 +331,8 @@
 
 </t>
 <t tx="leo.20170412112547.2">2. 利用solvespace簡單模擬四連桿運動。
+
+&lt;iframe src="https://player.vimeo.com/video/208420642" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170412112608.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -333,6 +343,8 @@
 
 </t>
 <t tx="leo.20170412112608.2">3. 將四連桿導入v-rep進行模擬。
+
+&lt;iframe src="https://player.vimeo.com/video/208420657" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170412113900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -415,7 +427,9 @@
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082451.3"># 3/15 第四週</t>
+<t tx="leo.20170621082451.3"># 3/15 第四週
+
+自己組別在 https://mde2a2.kmol.info/cdbg2/wiki?name=w4 主機上建立伺服器，並可以在上面做編輯。</t>
 <t tx="leo.20170621082451.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -458,7 +472,11 @@
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082459.3"># 3/22 第五週</t>
+<t tx="leo.20170621082459.3"># 3/22 第五週
+
+1.認識fossil wiki的三種編譯方式-Fossil wiki，Markdown 以及html
+
+2.利用V-rep導入solvespace做出的單連桿進行模擬</t>
 <t tx="leo.20170621082459.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -515,7 +533,9 @@
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082504.3"># 3/29 第六週</t>
+<t tx="leo.20170621082504.3"># 3/29 第六週
+
+在onshape上繪製四連桿並組立。</t>
 <t tx="leo.20170621082504.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -561,7 +581,9 @@
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082508.3"># 4/05 第七週</t>
+<t tx="leo.20170621082508.3"># 4/05 第七週
+
+在onshape繪製八連桿</t>
 <t tx="leo.20170621082508.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -622,7 +644,9 @@ fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082513.3"># 4/12 第八週</t>
+<t tx="leo.20170621082513.3"># 4/12 第八週
+
+期中成績自評</t>
 <t tx="leo.20170621082513.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -653,7 +677,9 @@ fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082520.3"># 4/19 第九週</t>
+<t tx="leo.20170621082520.3"># 4/19 第九週
+
+利用onshape協同，共同繪製組裝四腳機構。</t>
 <t tx="leo.20170621082520.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -692,7 +718,9 @@ fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082526.3"># 4/26 第十週</t>
+<t tx="leo.20170621082526.3"># 4/26 第十週
+
+將上禮拜繪製的四腳機構導入v-rep模擬。</t>
 <t tx="leo.20170621082526.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -770,7 +798,9 @@ There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know :
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082532.3"># 5/03 第十一週</t>
+<t tx="leo.20170621082532.3"># 5/03 第十一週
+
+對三篇onshape的文章進行翻譯和導讀</t>
 <t tx="leo.20170621082532.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -824,7 +854,9 @@ There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know :
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082539.3"># 5/10 第十二週</t>
+<t tx="leo.20170621082539.3"># 5/10 第十二週
+
+在onshape上繪製漸開線齒輪</t>
 <t tx="leo.20170621082539.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -846,7 +878,9 @@ There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know :
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082545.3"># 5/17 第十三週</t>
+<t tx="leo.20170621082545.3"># 5/17 第十三週
+
+在onshape上繪製漸開線齒輪，並且將多個參數不同的齒輪組立</t>
 <t tx="leo.20170621082545.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -870,7 +904,9 @@ There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know :
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082552.3"># 5/31 第十五週</t>
+<t tx="leo.20170621082552.3"># 5/31 第十五週
+
+利用Brython在網誌上呈現齒輪及學號</t>
 <t tx="leo.20170621082552.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -925,7 +961,11 @@ There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know :
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20170621082559.3"># 6/14 第十七週</t>
+<t tx="leo.20170621082559.3"># 6/14 第十七週
+
+完成七題練習
+
+</t>
 <t tx="leo.20170621082559.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1000,6 +1040,21 @@ git submodule add -b master https://github.com/scrum-1/cdbw17 subw7
 
 </t>
 <t tx="leo.20170621084131.2">7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.</t>
+<t tx="leo.20170621092540.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621092540.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621092540.3"># 6/07 第十六週
+
+介紹如何利用Xming連結Fossil伺服器</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1172,7 +1227,10 @@ make.start()</t>
 &lt;/section&gt;
 
 </t>
-<t tx="yen.20170120110024.13"># 3/1 第二週</t>
+<t tx="yen.20170120110024.13"># 3/1 第二週
+
+簡單理解fossil server
+</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
