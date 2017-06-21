@@ -27,12 +27,12 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -71,6 +71,177 @@
 </v>
 <v t="leo.20170412113934.1"><vh>5.</vh>
 <v t="leo.20170412113934.2"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082451.1"><vh>20170315</vh>
+<v t="leo.20170621082451.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082451.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082451.4"><vh>1.</vh>
+<v t="leo.20170621082451.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082451.6"><vh>2.</vh>
+<v t="leo.20170621082451.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082451.8"><vh>3.</vh>
+<v t="leo.20170621082451.9"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082451.10"><vh>4.</vh>
+<v t="leo.20170621082451.11"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082451.12"><vh>5.</vh>
+<v t="leo.20170621082451.13"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082848.1"><vh>6.</vh>
+<v t="leo.20170621082848.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082905.1"><vh>7.</vh>
+<v t="leo.20170621082905.2"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082459.1"><vh>20170322</vh>
+<v t="leo.20170621082459.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082459.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082459.4"><vh>1.</vh>
+<v t="leo.20170621082459.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082459.6"><vh>2.</vh>
+<v t="leo.20170621082459.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082459.8"><vh>3.</vh>
+<v t="leo.20170621082459.9"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082504.1"><vh>20170329</vh>
+<v t="leo.20170621082504.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082504.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082504.4"><vh>1.</vh>
+<v t="leo.20170621082504.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082504.6"><vh>2.</vh>
+<v t="leo.20170621082504.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082504.8"><vh>3.</vh>
+<v t="leo.20170621082504.9"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082504.10"><vh>4.</vh>
+<v t="leo.20170621082504.11"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082508.1"><vh>20170405</vh>
+<v t="leo.20170621082508.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082508.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082508.4"><vh>1.</vh>
+<v t="leo.20170621082508.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082508.6"><vh>2.</vh>
+<v t="leo.20170621082508.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082508.8"><vh>3.</vh>
+<v t="leo.20170621082508.9"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082513.1"><vh>20170412</vh>
+<v t="leo.20170621082513.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082513.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082513.4"><vh>1.</vh>
+<v t="leo.20170621082513.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082513.6"><vh>2.</vh>
+<v t="leo.20170621082513.7"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082520.1"><vh>20170419</vh>
+<v t="leo.20170621082520.2" a="E"><vh>上課內容摘要</vh>
+<v t="leo.20170621082520.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082520.4"><vh>1.</vh>
+<v t="leo.20170621082520.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082520.6"><vh>2.</vh>
+<v t="leo.20170621082520.7"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082526.1"><vh>20170426</vh>
+<v t="leo.20170621082526.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082526.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082526.4"><vh>1.</vh>
+<v t="leo.20170621082526.5"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082532.1"><vh>20170503</vh>
+<v t="leo.20170621082532.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082532.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082532.4"><vh>1.</vh>
+<v t="leo.20170621082532.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082532.6"><vh>2.</vh>
+<v t="leo.20170621082532.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082532.8"><vh>3.</vh>
+<v t="leo.20170621082532.9"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082532.10"><vh>4.</vh>
+<v t="leo.20170621082532.11"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082539.1"><vh>20170510</vh>
+<v t="leo.20170621082539.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082539.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082539.4"><vh>1.</vh>
+<v t="leo.20170621082539.5"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082545.1"><vh>20170517</vh>
+<v t="leo.20170621082545.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082545.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082545.4"><vh>1.</vh>
+<v t="leo.20170621082545.5"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082552.1"><vh>20170531</vh>
+<v t="leo.20170621082552.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082552.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082552.4"><vh>1.</vh>
+<v t="leo.20170621082552.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082552.6"><vh>2.</vh>
+<v t="leo.20170621082552.7"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621082559.1"><vh>20170614</vh>
+<v t="leo.20170621082559.2"><vh>上課內容摘要</vh>
+<v t="leo.20170621082559.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082559.4"><vh>1.</vh>
+<v t="leo.20170621082559.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082559.6"><vh>2.</vh>
+<v t="leo.20170621082559.7"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082559.8"><vh>3.</vh>
+<v t="leo.20170621082559.9"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082559.10"><vh>4.</vh>
+<v t="leo.20170621082559.11"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621082559.12"><vh>5.</vh>
+<v t="leo.20170621082559.13"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621084129.1"><vh>6.</vh>
+<v t="leo.20170621084129.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170621084131.1"><vh>7.</vh>
+<v t="leo.20170621084131.2"><vh>上課內容</vh></v>
 </v>
 </v>
 </v>
@@ -210,6 +381,625 @@
 
 </t>
 <t tx="leo.20170412113934.2">5. 將繪製的連桿上增繪50-50-50三角形，並分析上端點的路徑</t>
+<t tx="leo.20170621082451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082451.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.11">轉成STL檔
+&lt;iframe src="./../data/20170308-轉成STL檔.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170621082451.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.13">開啟vrep，導入檔案
+&lt;iframe src="./../data/20170308-開啟vrep，導入檔案.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170621082451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.3"># 3/15 第四週</t>
+<t tx="leo.20170621082451.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.5">1. 自己組別在 https://mde2a2.kmol.info/cdbg2/wiki?name=w4 主機上建立伺服器，並可以在上面做編輯。</t>
+<t tx="leo.20170621082451.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.7">2. 在solvespace上繪製單連桿，轉出STL檔，導入vrep。
+
+&lt;iframe src="https://player.vimeo.com/video/208424902" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082451.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082451.9">先繪製四連桿並組裝
+&lt;iframe src="./../data/20170308-先繪製四連桿並組裝.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082459.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082459.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082459.3"># 3/22 第五週</t>
+<t tx="leo.20170621082459.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082459.5">1. 建立一個與project name同名的wiki，該wiki會成為首頁
+
+&lt;iframe src="./../data/20170322-各組頁面首頁.png" width="480" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082459.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082459.7">2. 認識fossil wiki的三種編譯方式-Fossil wiki，Markdown 以及html</t>
+<t tx="leo.20170621082459.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082459.9">3. 利用V-rep導入solvespace做出的單連桿進行模擬
+
+&lt;iframe src="https://player.vimeo.com/video/209501377" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082504.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082504.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082504.11">因joint過大，導致在v-rep上無法模擬。所以將其直徑從5mm縮降至3mm。
+
+&lt;iframe src="./../data/3-29 將四連桿組立中的joint直徑改為3.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3-29 將joint改為3-(1).png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082504.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082504.3"># 3/29 第六週</t>
+<t tx="leo.20170621082504.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082504.5">1. 在onshape上繪製四連桿並組立。
+
+在onshape上繪製四連桿:
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/210538801" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br/&gt;</t>
+<t tx="leo.20170621082504.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082504.7">將onshape上所繪製的四連桿組立:
+&lt;iframe src="https://player.vimeo.com/video/210538809" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082504.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082504.9">2.將組立完成後的四連桿導入V-rep進行模擬</t>
+<t tx="leo.20170621082508.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082508.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082508.3"># 4/05 第七週</t>
+<t tx="leo.20170621082508.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082508.5">1 . fossil倉儲管理
+
+利用以下指令對fossil倉儲進行管理
+
+fossil clone uri foo.fossil (將遠端的倉儲下載下來)
+
+fossil open ./../../foo.fossil (將下載下來的倉儲打開)
+
+fossil add . (將改版的倉儲推至暫存區)
+
+fossil remote-url off (將自動推送改為手動，這是與git不同之處，fossil會自動推送)
+
+fossil push https://user@192.168.X.XX (將暫存區的檔案推至遠端)</t>
+<t tx="leo.20170621082508.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082508.7">2 . 在onshape繪製八連桿
+
+&lt;iframe src="https://player.vimeo.com/video/212756217" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212756217"&gt;2017-04-11 在onshape上繪製八連桿並組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212756256" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212756256"&gt;2017-04-11 修改八連桿的銷，由旋轉組立改為緊固組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082508.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082508.9">3 . 將八連桿導入v-rep模擬
+
+&lt;iframe src="https://player.vimeo.com/video/212771409" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212771409"&gt;2017-04-11 將八連桿導入v-rep模擬(上)&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082513.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082513.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082513.3"># 4/12 第八週</t>
+<t tx="leo.20170621082513.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082513.5">1. 期中成績自評</t>
+<t tx="leo.20170621082513.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082513.7">2. 將台大畢業生之hyperworks兩篇論文範例上傳至fossil倉儲</t>
+<t tx="leo.20170621082520.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082520.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082520.3"># 4/19 第九週</t>
+<t tx="leo.20170621082520.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082520.5">1 . 每組每個人繪製一四連桿機構並抓點。
+
+&lt;iframe src="https://player.vimeo.com/video/213774522" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213774522"&gt;2017-04-19 期中-四連桿機構協同 Trace Point 查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082520.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082520.7">2 . 利用onshape協同，共同繪製組裝四腳機構。
+
+&lt;iframe src="https://player.vimeo.com/video/213789183" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213789183"&gt;2017-04-19_onshape組立協同2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170621082526.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082526.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082526.3"># 4/26 第十週</t>
+<t tx="leo.20170621082526.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082526.5">1. 將上禮拜繪製的四腳機構導入v-rep模擬。
+
+&lt;iframe src="https://player.vimeo.com/video/215774777" width="640" height="348" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/215774777"&gt;2017-04-26_導入vrep模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170621082532.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082532.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082532.11">3 . Onshape’s Greatest Tech Tips (Volume I)
+
+There is mentioned that the TOP TEN TIPS every full-cloud CAD user should know : 
+
+    #1: compare
+    
+        it can be used to view the version, branches and history.
+        
+    #2: Follow Mode
+    
+        you can watch other doing their work "on live"
+        
+    #3: Export / Import DXF
+    
+        A drawing can be import/export to onshape.
+        
+    #4: Shortcut Toolbars
+    
+        The commomly used command can be customize to shortcut toolbars
+        
+    #5: Add Comments
+    
+        You can chat with others on live.
+        
+    #6: Snap Mode While Inserting
+    
+        Onshape will show you a graphic preview
+        
+    #7: Green Check To Insert Parts
+    
+        You can insert parts on onshape.
+        
+    #8: Multiple Browser Tabs
+    
+        You can view at mutiple monitors.
+        
+    #9: Roll To Here / Roll To End
+    
+        Roll back and roll to end.
+        
+    #10: Shift-Select When Importing
+    
+        Quickly import with simple icon.</t>
+<t tx="leo.20170621082532.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082532.3"># 5/03 第十一週</t>
+<t tx="leo.20170621082532.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082532.5">1 . An Introduction to Agile Product Design
+
+    ˙The benefits of being AGILE : boosting speed and innvation.
+    
+    ˙There are four tips that speed-to-market does : 
+    
+        1. Faster innvation : you can realize the shift of market more quiclky.
+        
+        2. Lower development costs 
+        
+        3. Anlarge market share : If there is a product being pioneer, it meets less competitors. 
+        
+        4. Greater forecasting accuracy : The time between product design and release is shorter, so it is more likely to be green-light or others.        </t>
+<t tx="leo.20170621082532.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082532.7">對產品設計及開發而言，"變得靈活"好處非常多，優勢也非常大。舉凡上列所提及，因未能更快的釋出產品，所以對產品的改革方面也有更多的時間；也因釋出的時間早，更能有效地避開競爭對手。而在具備上述條件之下，對產品開發的額外功能(像是綠能)也就有更多被考慮的空間。</t>
+<t tx="leo.20170621082532.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082532.9">2 . The Move To Agile Design: New Cloud CAD Tools Needed
+
+這篇文章提到產品設計最優先考量的是"速度"，其次則是創新。靈活的過程+全雲端協同=未來CAD/CAM的趨勢。</t>
+<t tx="leo.20170621082539.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082539.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082539.3"># 5/10 第十二週</t>
+<t tx="leo.20170621082539.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082539.5">在onshape上繪製齒輪並組立</t>
+<t tx="leo.20170621082545.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082545.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082545.3"># 5/17 第十三週</t>
+<t tx="leo.20170621082545.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082545.5">在onshape上繪製齒輪並組立
+
+中心距斜度組立</t>
+<t tx="leo.20170621082552.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082552.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082552.3"># 5/31 第十五週</t>
+<t tx="leo.20170621082552.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082552.5">第一題
+
+&lt;iframe src="https://player.vimeo.com/video/219616721" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/219616721"&gt;2017-05-31_W15漸開線齒輪練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082552.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082552.7">第二題</t>
+<t tx="leo.20170621082559.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082559.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.11">4.各組員 Solvespace 近端零組件繪圖, 並在各組員網誌中顯示指定的零組件
+
+&lt;iframe src="https://player.vimeo.com/video/222369046" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222369046"&gt;40423254-2017springcd-final-4.mp4&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082559.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.13">5.各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬</t>
+<t tx="leo.20170621082559.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.3"># 6/14 第十七週</t>
+<t tx="leo.20170621082559.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.5">1.各組員倉儲中的 Github 檔案推送
+&lt;iframe src="https://player.vimeo.com/video/221522571" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/221522571"&gt;40423254-2017springcd-final-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082559.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.7">2.各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中</t>
+<t tx="leo.20170621082559.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082559.9">3.各組員倉儲中的子模組建立與運用, 並將程式碼顯示在繪圖網誌文章中
+
+git submodule add -b master https://github.com/scrum-1/cdbw17 subw7
+
+&lt;iframe src="https://player.vimeo.com/video/222380447" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222380447"&gt;40423254-2017springcd-final-3&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621082848.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082848.2">選擇mesh
+&lt;iframe src="./../data/20170308-選擇mesh.png" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621082905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621082905.2">
+選擇尺寸單位
+&lt;iframe src="./../data/20170308-選擇尺寸單位.png" width="960" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170621084129.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621084129.2">
+6.各組員說明在分組行走機構模擬與實作過程中所扮演的角色, 並利用影片檔說明所負責完成的任務</t>
+<t tx="leo.20170621084131.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20170621084131.2">7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
